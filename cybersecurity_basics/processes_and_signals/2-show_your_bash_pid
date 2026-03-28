@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#processesss
+ps aux | grep "bash"
